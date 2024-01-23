@@ -6,7 +6,7 @@ body {
     font-weight: 500;
 }
 header {
-    height: 400px;
+    min-height: 400px;
     background-image: url("../image/coffee-bgnd.jpeg");
     background-position: center;
     background-repeat: no-repeat;
